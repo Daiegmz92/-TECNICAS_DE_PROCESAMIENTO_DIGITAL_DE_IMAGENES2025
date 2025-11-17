@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+torchaudio
+diffusers>=0.20.0
+transformers
+accelerate
+safetensors
+google-generativeai
+Pillow
+python-dotenv
